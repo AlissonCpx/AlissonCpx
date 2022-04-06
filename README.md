@@ -9,3 +9,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonCpx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonCpx&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+   ![Snake animation](https://github.com/AlissonCpx/AlissonCpx/blob/output/github-contribution-grid-snake.svg)
