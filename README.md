@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalho com Java Web desenvolvendo funções em um sistema ERP.
-- 🌱 Estudando flutter, react e spring boot
+- 🌱 Estudando flutter, react e spring boot.
 - 💬 Contate-me no email: alissondeandrade1@gmail.com || alissondeandrade1@icloud.com
 
 <div align="center">
