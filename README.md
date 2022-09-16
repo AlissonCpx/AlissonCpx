@@ -2,7 +2,6 @@
  <p>Meu nome é Alisson Baade de Andrade, sou formado em análise e desenvolvimento de sistemas e sou apaixonado por tecnologia e sua constante evolução.</p>
  <p>Tenho como meta me tornar um excelente desenvolvedor, buscando sempre o melhor conhecimento e prática para resolver soluções.</p>
 
-- 🔭 Atualmente trabalho com Java Web desenvolvendo funções em um sistema ERP.
 - 🌱 Estudando flutter, react e spring boot.
 - 💬 Contate-me no email: alissondeandrade1@gmail.com
 -<div>
